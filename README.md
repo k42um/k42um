@@ -1,4 +1,6 @@
-<img src = "https://capsule-render.vercel.app/api?type=blur&height=270&color=gradient&text=@%20k42uma&section=header&reversal=false&textBg=false&fontColor=4d4d4d&fontAlign=50&animation=fadeIn&desc=Aspiring%20engineer%20from%20Japan%20🇯🇵&descSize=14&descAlignY=65&descAlign=58" alt = "Welcome to @k42uma's GitHub Profile!">
+<img src = "https://capsule-render.vercel.app/api?type=blur&height=270&color=gradient&text=@%20k42um&fontAlign=50&fontAlignY=50&fontColor=4d4d4d&desc=Aspiring%20engineer%20from%20Japan%20🇯🇵&descSize=14&descAlignY=64&descAlign=56" alt = "Welcome to @k42uma's GitHub Profile!">
+
+
 
 ## About me
 - 筑波大学
