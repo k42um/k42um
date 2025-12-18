@@ -10,7 +10,7 @@
 ## 活動
   - 筑波大学「結」プロジェクト ( 2024/04 - )
     - 学部生が主体となって、超小型人工衛星（CubeSat）を開発するプロジェクト
-      - 70名強が在籍
+      - 40名強が活動中
       - 現在は3号機となるTSUKUTOを開発中
       - 主に通信機のソフトウェア開発に従事
     - 役職
@@ -23,6 +23,9 @@
     - 高校3年生の物理・化学や中学生の数学を担当
   - 工学システム学類新入生歓迎委員会 委員長 ( 2024/09 - 2025/04 )
   - つくばろぼっとサークル ハード班 ( 2024/04 - 2025/03 )
+
+## やってること
+[![My Skills](https://skillicons.dev/icons?i=arduino,git,github,vscode,md,latex,c,cpp,js,html,css,apple&perline=6)](https://skillicons.dev)
 
 ## 各種リンク
 - [GitHub](https://github.com/k42um/)
