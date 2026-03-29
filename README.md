@@ -25,7 +25,7 @@
   - つくばろぼっとサークル ハード班 ( 2024/04 - 2025/03 )
 
 ## やってること
-[![My Skills](https://skillicons.dev/icons?i=arduino,git,github,vscode,md,latex,c,cpp,js,html,css,apple&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=arduino,git,github,vscode,md,latex,aiscript,c,cpp,js,html,css,windows,apple&perline=7)](https://skillicons.dev)
 
 ## 各種リンク
 - [GitHub](https://github.com/k42um/)
