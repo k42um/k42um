@@ -1,6 +1,7 @@
 <div align="right"><a href="README.md">🇯🇵 日本語</a></div>
 
 
+
 <img src = "https://capsule-render.vercel.app/api?type=blur&height=270&color=gradient&text=@%20k42um&fontAlign=50&fontAlignY=50&fontColor=4d4d4d&desc=Aspiring%20engineer%20from%20Japan%20🇯🇵&descSize=14&descAlignY=64&descAlign=56" alt = "Welcome to @k42uma's GitHub Profile!">
 
 
@@ -9,7 +10,7 @@
 - University of Tsukuba
   - School of Science and Engineering Engineering Systems ( 2024/04 - )
 - Qualifications
-  - Third Class Amateur Radio Technician ( 2024/08 )
+  - Third class amateur radio operator ( 2024/08 )
 ## activity
   - University of Tsukuba "Yui" Project ( 2024/04 - )
     - Undergraduate students lead the project to develop a nano-satellite (CubeSat).
@@ -23,7 +24,7 @@
       - New Student Recruitment Team Chief ( 2024/12 - 2025/05 )
       - C&Dh system Members ( 2024/04 - 2025/06 )
   - Part-time tutoring ( 2024/12 - )
-    - Taught physics and chemistry for high school seniors and mathematics for junior high school students
+    - Taught mathematics, physics, and chemistry for high school seniors and mathematics for junior high school students.
   - Chair of the Welcome Committee for New Students, School of Engineering and Systems ( 2024/09 - 2025/04 )
   - Tsukuba Robot Circle Hardware Group ( 2024/04 - 2025/03 )
 
