@@ -1,3 +1,5 @@
+<div align="right"><a href="README.en.md">🇺🇸 English</a></div>
+
 <img src = "https://capsule-render.vercel.app/api?type=blur&height=270&color=gradient&text=@%20k42um&fontAlign=50&fontAlignY=50&fontColor=4d4d4d&desc=Aspiring%20engineer%20from%20Japan%20🇯🇵&descSize=14&descAlignY=64&descAlign=56" alt = "Welcome to @k42uma's GitHub Profile!">
 
 
@@ -17,9 +19,9 @@
       - 通信系 サブチーフ ( 2025/06 - )
       - 広報・渉外チーム チーフ ( 2025/04 - )
       - 学生代表 ( 2024/11 - 2026/01 )
-      - 新歓チーム チーフ ( 2024/12 - 2025/05 )
+      - 新入生勧誘チーム チーフ ( 2024/12 - 2025/05 )
       - C&Dh系 メンバ ( 2024/04 - 2025/06 )
-  - つくば市内の学習塾（ 2024/12 - ）
+  - アルバイトの塾講師（ 2024/12 - ）
     - 高校3年生の物理・化学や中学生の数学を担当
   - 工学システム学類新入生歓迎委員会 委員長 ( 2024/09 - 2025/04 )
   - つくばろぼっとサークル ハード班 ( 2024/04 - 2025/03 )
