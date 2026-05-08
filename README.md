@@ -36,7 +36,7 @@
   - 工学システム学類新入生歓迎委員会 委員長 ( 2024/09 - 2025/04 )
 
 ## やってること
-[![My Skills](https://skillicons.dev/icons?i=arduino,raspberrypi,git,github,vscode,md,latex,aiscript,c,cpp,js,html,css,windows,apple,ubuntu&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=arduino,raspberrypi,git,github,vscode,md,latex,aiscript,c,cpp,js,html,css,windows,apple,ubuntu&perline=8)](https://skillicons.dev)
 
 ## 各種リンク
 - [GitHub](https://github.com/k42um/)
