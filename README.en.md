@@ -6,6 +6,7 @@
 
 
 
+
 <img src = "https://capsule-render.vercel.app/api?type=blur&height=270&color=gradient&text=@%20k42um&fontAlign=50&fontAlignY=50&fontColor=4d4d4d&desc=Aspiring%20engineer%20from%20Japan%20🇯🇵&descSize=14&descAlignY=64&descAlign=56" alt = "Welcome to @k42uma's GitHub Profile!">
 
 
@@ -34,7 +35,7 @@
   - Chair of the Welcome Committee for New Students, School of Engineering and Systems ( 2024/09 - 2025/04 )
 
 ## What we do.
-[![My Skills](https://skillicons.dev/icons?i=arduino,git,github,vscode,md,latex,aiscript,c,cpp,js,html,css,windows,apple&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=arduino,raspberrypi,git,github,vscode,md,latex,aiscript,c,cpp,js,html,css,windows,apple,ubuntu&perline=8)](https://skillicons.dev)
 
 ## Various Links
 - [GitHub](https://github.com/k42um/)
