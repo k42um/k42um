@@ -16,7 +16,7 @@
 - Kazuma Kurokawa
 - Born in Nara Prefecture
 - University of Tsukuba
-  - School of Science and Engineering Engineering Systems ( 2024/04 - )
+  - School of Engineering Systems ( 2024/04 - )
 - Qualifications
   - Third Class Amateur Radio Technician ( 2024/08 )
 
