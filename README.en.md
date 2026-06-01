@@ -21,8 +21,8 @@
   - Third Class Amateur Radio Technician ( 2024/08 )
 
 ## activity
-  - Mime Laboratory, University of Tsukuba ( 2026/06 - )
-    - Assignment through the Leading Researchers Experience Program
+  - Mitsume Laboratory, University of Tsukuba ( 2026/06 - )
+    - Assignment through the Advancing Researchers Experience program
     - Research Topic: Construction of a framework for automatic hydrodynamic digital twin generation using drone video
   - University of Tsukuba "Yui" Project ( 2024/04 - )
     - Undergraduate students lead the project to develop a nano-satellite (CubeSat).
