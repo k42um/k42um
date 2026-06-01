@@ -13,7 +13,7 @@
 
 
 ## About me
-- first wind of the black river
+- Kazuma Kurokawa
 - Born in Nara Prefecture
 - University of Tsukuba
   - School of Science and Engineering Engineering Systems ( 2024/04 - )
