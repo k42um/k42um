@@ -7,6 +7,7 @@
 
 
 
+
 <img src = "https://capsule-render.vercel.app/api?type=blur&height=270&color=gradient&text=@%20k42um&fontAlign=50&fontAlignY=50&fontColor=4d4d4d&desc=Aspiring%20engineer%20from%20Japan%20🇯🇵&descSize=14&descAlignY=64&descAlign=56" alt = "Welcome to @k42uma's GitHub Profile!">
 
 
@@ -18,18 +19,14 @@
   - School of Science and Engineering Engineering Systems ( 2024/04 - )
 - Qualifications
   - Third Class Amateur Radio Technician ( 2024/08 )
+
 ## activity
+  - Mime Laboratory, University of Tsukuba ( 2026/06 - )
+    - Assignment through the Leading Researchers Experience Program
+    - Research Topic: Construction of a framework for automatic hydrodynamic digital twin generation using drone video
   - University of Tsukuba "Yui" Project ( 2024/04 - )
     - Undergraduate students lead the project to develop a nano-satellite (CubeSat).
-      - A little over 50 people are active.
-      - Currently developing TSUKUTO, which will be the third model.
-      - Mainly engaged in software development of telecommunications equipment
-    - post
-      - Sub Chief, Communications ( 2025/06 - )
-      - Chief, Public Relations and External Affairs Team ( 2025/04 - )
-      - Student Representative ( 2024/11 - 2026/01 )
-      - New Student Recruitment Team Chief ( 2024/12 - 2025/05 )
-      - C&Dh system Members ( 2024/04 - 2025/06 )
+    - Responsible for design and development of communication systems and software
   - Part-time tutoring ( 2024/12 - )
     - Taught mathematics, physics, and chemistry for high school seniors and mathematics for junior high school students.
   - Chair of the Welcome Committee for New Students, School of Engineering and Systems ( 2024/09 - 2025/04 )
@@ -38,10 +35,10 @@
 [![My Skills](https://skillicons.dev/icons?i=arduino,raspberrypi,git,github,vscode,md,latex,aiscript,c,cpp,js,html,css,windows,apple,ubuntu&perline=8)](https://skillicons.dev)
 
 ## Various Links
+- [Portfolio](http://k42uma.com)
 - [GitHub](https://github.com/k42um/)
 - [Twitter](https://x.com/k42uma)
 - [Zenn](https://zenn.dev/k42uma)
-- [Qiita](https://qiita.com/k42uma)
 
 
 
