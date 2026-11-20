@@ -8,33 +8,38 @@
 
 
 
+
 <img src = "https://capsule-render.vercel.app/api?type=blur&height=270&color=gradient&text=@%20k42um&fontAlign=50&fontAlignY=50&fontColor=4d4d4d&desc=Aspiring%20engineer%20from%20Japan%20🇯🇵&descSize=14&descAlignY=64&descAlign=56" alt = "Welcome to @k42uma's GitHub Profile!">
 
 
 
-## About me
+## About Me
 - Kazuma Kurokawa
-- Born in Nara Prefecture
+- From Nara Prefecture
 - University of Tsukuba
-  - School of Engineering Systems ( 2024/04 - )
+  - School of Science and Engineering, Department of Engineering Systems (April 2024–)
 - Qualifications
-  - Third Class Amateur Radio Technician ( 2024/08 )
+  - Third-Class Amateur Radio Operator (August 2024)
 
-## activity
-  - Mitsume Laboratory, University of Tsukuba ( 2026/06 - )
-    - Assignment through the Advancing Researchers Experience program
-    - Research Topic: Construction of a framework for automatic hydrodynamic digital twin generation using drone video
-  - University of Tsukuba "Yui" Project ( 2024/04 - )
-    - Undergraduate students lead the project to develop a nano-satellite (CubeSat).
-    - Responsible for design and development of communication systems and software
-  - Part-time tutoring ( 2024/12 - )
-    - Taught mathematics, physics, and chemistry for high school seniors and mathematics for junior high school students.
-  - Chair of the Welcome Committee for New Students, School of Engineering and Systems ( 2024/09 - 2025/04 )
+## Activities
+  - Mitsume Laboratory, University of Tsukuba (June 2026 – present)
+    - Assignments Through the Pioneering Researcher Experience Program
+    - Research Topic: Development of a Framework for the Automatic Generation of Hydrodynamic Digital Twins Using Drone Footage
+  - University of Tsukuba “Yui” Project (April 2024 – )
+    - A project led by undergraduate students to develop microsatellites (CubeSats)
+    - Responsible for the design and development of communication systems and software
+  - Part-time Tutoring Instructor (December 2024 – present)
+    - Teaches high school senior-level math, physics, and chemistry, as well as middle school math
+  - Chair, Freshman Welcome Committee, School of Engineering Systems (September 2024 – April 2025)
 
-## What we do.
+## Intern
+- TeamLab Inc. (August 2026)
+  - Participated in a two-week summer internship as a spatial design engineer
+
+## What I'm Doing
 [![My Skills](https://skillicons.dev/icons?i=arduino,raspberrypi,git,github,vscode,md,latex,aiscript,c,cpp,js,html,css,windows,apple,ubuntu&perline=8)](https://skillicons.dev)
 
-## Various Links
+## Links
 - [Portfolio](http://k42uma.com)
 - [GitHub](https://github.com/k42um/)
 - [Twitter](https://x.com/k42uma)
