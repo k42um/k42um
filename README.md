@@ -33,6 +33,10 @@
     - 高校3年生の数学・物理・化学や中学生の数学を担当
   - 工学システム学類新入生歓迎委員会 委員長 ( 2024/09 - 2025/04 )
 
+## インターン
+- チームラボ株式会社 ( 2026/08 )
+  - 空間演出エンジニアとして2週間のサマーインターンシップに参加
+
 ## やってること
 [![My Skills](https://skillicons.dev/icons?i=arduino,raspberrypi,git,github,vscode,md,latex,aiscript,c,cpp,js,html,css,windows,apple,ubuntu&perline=8)](https://skillicons.dev)
 
